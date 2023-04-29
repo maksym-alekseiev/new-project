@@ -18,3 +18,7 @@ The changes from the "development" branch are merged into the "main" branch succ
 Definition of Done (DoD):
 
 Link to new-project Readme file
+git add README.md
+git commit -m "init"
+git branch development
+git switch development
